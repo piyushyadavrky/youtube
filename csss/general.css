@@ -1,6 +1,8 @@
 body {
-  /* padding-top: 60px; */
+  background-color: rgb(243, 242, 242);
+  padding-top: 80px;
   margin: 0px;
-  padding: 0px;
+  padding-left: 96px;
+  padding-right: 24px;
   font-family: roboto, Arial, Helvetica, sans-serif;
 }

@@ -8,6 +8,7 @@
   right: 0;
   left: 0;
   z-index: 1;
+  background-color: white;
 }
 .left-section {
   display: flex;
@@ -165,6 +166,7 @@
   bottom: 0;
   top: 54px;
   width: 72px;
+  background-color: white;
 }
 
 .sidebar-link {
