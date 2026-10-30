@@ -136,3 +136,32 @@
 
 
 
+.sidebar {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  top: 54px;
+  width: 72px;
+}
+
+.sidebar-link {
+  display: flex;
+  flex-direction: column;
+  height: 72px;
+  justify-content: center;
+  align-items: center;
+}
+
+.sidebar-link:hover {
+  background-color: rgb(226, 224, 224);
+}
+
+.sidebar-link .toolkit {
+  height: 24px;
+  margin-bottom: 5px;
+}
+
+.sidebar-icons-title {
+  font-family: roboto, arial;
+  font-size: 10px;
+}
