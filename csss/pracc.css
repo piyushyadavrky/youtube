@@ -26,7 +26,7 @@
 
 .right-section {
   display: flex;
-  width: 210px;
+  width: 180px;
   align-items: center;
   justify-content: space-between;
   flex-shrink: 0;
@@ -167,6 +167,7 @@
   top: 54px;
   width: 72px;
   background-color: white;
+  z-index: 2;
 }
 
 .sidebar-link {
